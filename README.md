@@ -1,5 +1,5 @@
 # FastFingers
-Got it! Here's the updated description, emphasizing that **FastFingers** is a project rather than an app:
+
 
 ---
 
